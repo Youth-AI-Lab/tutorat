@@ -178,7 +178,7 @@ La préparation, bien que soutenue par les partenaires, reste votre responsabili
 Enfin, nous attendons que vous incarniez l'utilisation éthique de l'IA que nous visons à insuffler aux participants. Cela signifie reconnaître les limites de l'IA autant que ses possibilités, discuter honnêtement des biais et des préoccupations éthiques, et démontrer une pensée critique sur les impacts sociétaux de l'IA. Votre perspective équilibrée aide les participants à développer une compréhension nuancée plutôt qu'un enthousiasme aveugle ou une peur infondée.
 </details>
 
-## Conseils pratiques pour un tuteurat efficace
+## Conseils pratiques pour un tutorat efficace
 
 <details>
 <summary>Rendre l'apprentissage actif et engageant</summary>
