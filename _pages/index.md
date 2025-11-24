@@ -4,7 +4,6 @@ permalink: /
 title: Guide du tuteur - Projet Youth AI LAB
 ---
 
-# Guide du tuteur - Projet Youth AI LAB
 <img src="https://github.com/Youth-AI-Lab/tutorat/blob/main/assets/images/YouthAiLabtutoring.png" style="width: 20%;">
 
 **Vous avez accepté ou envisagez de rejoindre le projet Youth AI Lab comme tuteur... Merci de votre implication ! Voici les informations pratiques sur votre engagement et votre rôle.**
@@ -94,9 +93,6 @@ Les réunions de coordination avec l'équipe pédagogique ont lieu à la même f
 
 <details>
 <summary>Liberté créative et soutien du consortium</summary>
-
-### Liberté créative et soutien du consortium
-
 Votre créativité et vos idées nouvelles sont non seulement bienvenues mais activement encouragées dans ce programme. Proche de l'âge des participants et immergé dans les développements actuels des nouvelles technologies, vous apportez des perspectives que les éducateurs plus âgés pourraient manquer. Vous comprenez les plateformes que les jeunes utilisent, les références culturelles qui leur parlent et la façon dont la technologie s'intègre dans leur quotidien.
 
 Quand vous avez des idées d'activités, d'ateliers ou d'approches, notre consortium est là pour vous aider à les concrétiser. Peut-être voulez-vous explorer l'IA à travers un jeu, créer un filtre TikTok qui enseigne l'apprentissage automatique, ou organiser un défi basé sur un sujet tendance. Ces idées maintiennent le programme pertinent et engageant pour les participants.
@@ -110,25 +106,16 @@ Des sessions régulières de brainstorming avec les autres tuteurs et partenaire
 
 <details>
 <summary>Enthousiasme et envie d'apprendre</summary>
-
-### Enthousiasme et envie d'apprendre
-
 Avant tout, nous attendons un enthousiasme sincère pour l'intelligence artificielle et son potentiel. Cela ne signifie pas que vous devez être expert dans tous les aspects de l'IA, mais plutôt que vous apportiez une curiosité et un intérêt authentiques aux sessions. Quand vous rencontrez des concepts que vous ne comprenez pas complètement, nous attendons que vous montriez l'exemple d'un bon comportement d'apprentissage en le reconnaissant et en explorant des solutions ensemble avec les participants. Votre volonté d'apprendre à leurs côtés s'avère souvent plus précieuse que d'avoir toutes les réponses.
 </details>
 
 <details>
 <summary>Fiabilité et engagement</summary>
-
-### Fiabilité et engagement
-
 La fiabilité est la pierre angulaire d'un tutorat efficace. Les jeunes participants attendent les sessions avec impatience et construisent une confiance dans votre présence. Nous attendons que vous honoriez vos engagements, en assistant aux sessions programmées et aux réunions de coordination sauf circonstances exceptionnelles. Quand vous ne pouvez pas être présent, une communication précoce avec l'équipe permet une planification appropriée et maintient la continuité du programme. Cette fiabilité s'étend à la ponctualité - arriver préparé et à l'heure démontre le respect du temps des participants et donne un exemple professionnel.
 </details>
 
 <details>
 <summary>Collaboration active</summary>
-
-### Collaboration active
-
 La collaboration avec l'équipe d'animation et les partenaires demande un engagement actif et une communication ouverte. Nous attendons que vous partagiez vos observations, succès comme défis, pendant les réunions de coordination. Votre perspective unique en tant que jeune adulte proche de l'âge des participants fournit des insights précieux qui aident à façonner l'évolution du programme. Quand l'animateur ou le partenaire suggère des ajustements aux activités ou approches, nous attendons un dialogue constructif et de la flexibilité dans l'adaptation de vos contributions.
 </details>
 
@@ -138,9 +125,6 @@ La documentation de votre expérience de tutorat sert plusieurs objectifs et rep
 
 <details>
 <summary>Rapport de fin de session</summary>
-
-### Rapport de fin de session
-
 Après chaque session de tuteurat, vous devez remplir un rapport sur papier en Français qui sera ensuite traduit par les partenaires pour être accessible à tout le consortium. Commencez par identifier les défis qui sont apparus pendant la session. Des problèmes techniques sont-ils survenus avec les logiciels ou la connexion ? Y avait-il des dynamiques dans le groupe qui ont affecté la collaboration ? Les participants ont-ils eu du mal avec certains concepts ? La session était-elle limitée par des ressources ou du matériel manquants ? Comprendre ces défis aide l'équipe à s'adapter et améliorer les sessions futures.
 
 Documentez le parcours thématique de la session en identifiant les thèmes de tuteurat explorés ensemble. Articulez les objectifs poursuivis - qu'espériez-vous que les participants comprennent, expérimentent ou accomplissent à la fin de la session ? Puis racontez la progression de la session à travers chaque activité, en fournissant à la fois le titre et une description significative de ce qui s'est passé. Ce récit devient précieux pour comprendre non seulement ce qui était prévu, mais ce qui s'est réellement déroulé dans l'environnement dynamique de l'éducation des jeunes.
@@ -156,18 +140,12 @@ Votre évaluation doit capturer l'énergie et l'engagement du groupe. Les partic
 
 <details>
 <summary>Contributions aux réunions de coordination</summary>
-
-### Contributions aux réunions de coordination
-
 Pendant les réunions de coordination planifiées entre tuteurs et consortium, venez préparé à partager votre évaluation globale du progrès du programme, incluant ce qui fonctionne bien, les ajustements nécessaires et les réalisations clés. Partagez des observations spécifiques sur les participants, l'efficacité de la méthodologie, la pertinence du contenu et les dynamiques de groupe.
 
 Contribuez les bonnes pratiques que vous avez découvertes, qu'il s'agisse de techniques pédagogiques qui engagent efficacement les participants, de solutions à des défis récurrents ou d'approches innovantes que vous avez testées avec succès. Identifiez les ressources dont vous avez besoin, du matériel manquant à la formation ou au soutien technique souhaité. Esquissez des prochaines étapes claires incluant les actions prioritaires, les préparations nécessaires et les objectifs pour les sessions à venir. De plus, nous vous demanderons de compléter un questionnaire d'évaluation sur votre rôle de tuteur et l'impact sur votre propre développement de compétences dans le projet tous les six mois. Cela permettra au consortium d'évaluer le succès du projet. La réunion de coordination sera rapportée directement par les partenaires.</details>
 
 <details>
 <summary>Collecte de données et évaluation de la qualité</summary>
-
-### Collecte de données et évaluation de la qualité
-
 Pour garantir la qualité du programme et son amélioration continue, nous pourrions collecter des informations spécifiques pendant et après chaque session. Cette collecte de données est essentielle pour comprendre l'impact du programme et affiner notre approche. Les informations suivantes peuvent être recueillies :
 
 - Enregistrements audio de segments de session sélectionnés pour analyser les interactions pédagogiques et l'efficacité de la communication (avec consentement approprié)
@@ -184,33 +162,21 @@ Toute collecte de données suit des directives éthiques strictes et les réglem
 
 <details>
 <summary>Limites professionnelles</summary>
-
-### Limites professionnelles
-
 Nous attendons que vous mainteniez des limites professionnelles appropriées tout en construisant des connexions significatives avec les participants. Cela signifie être amical et accessible tout en évitant les relations personnelles en dehors du contexte du programme. Les connexions sur les réseaux sociaux avec les participants doivent rester professionnelles et centrées sur le programme. Si les participants partagent des défis personnels ou des informations préoccupantes, nous attendons que vous informiez l'animateur et les partenaires tout en maintenant une confidentialité appropriée.
 </details>
 
 <details>
 <summary>Communication adaptative</summary>
-
-### Communication adaptative
-
 Votre style de communication doit s'adapter à votre audience. Avec les participants, nous attendons un langage accessible sans être condescendant, techniquement exact sans être écrasant. Vous devez être préparé à expliquer les concepts de plusieurs façons, en utilisant des analogies et des exemples pertinents pour leur vie. Avec les parents et les parties prenantes qui pourraient observer les sessions, nous attendons que vous articuliez clairement et professionnellement la valeur du programme et votre rôle.
 </details>
 
 <details>
 <summary>Préparation et initiative</summary>
-
-### Préparation et initiative
-
 La préparation, bien que soutenue par les partenaires, reste votre responsabilité. Nous attendons que vous révisiez le matériel fourni avant les sessions, compreniez les objectifs de la session et réfléchissiez à comment vous contribuerez avec vos connaissances techniques. Cela ne signifie pas mémoriser des scripts ou suivre des plans rigides, mais plutôt être mentalement prêt à enrichir la session avec vos insights et expériences.
 </details>
 
 <details>
-<summary>Promotion d'une IA éthique</summary>
-
-### Promotion d'une IA éthique
-  
+<summary>Promotion d'une IA éthique</summary>  
 Enfin, nous attendons que vous incarniez l'utilisation éthique de l'IA que nous visons à insuffler aux participants. Cela signifie reconnaître les limites de l'IA autant que ses possibilités, discuter honnêtement des biais et des préoccupations éthiques, et démontrer une pensée critique sur les impacts sociétaux de l'IA. Votre perspective équilibrée aide les participants à développer une compréhension nuancée plutôt qu'un enthousiasme aveugle ou une peur infondée.
 </details>
 
@@ -218,44 +184,35 @@ Enfin, nous attendons que vous incarniez l'utilisation éthique de l'IA que nous
 
 <details>
 <summary>Rendre l'apprentissage actif et engageant</summary>
+Commencez immédiatement par des activités pratiques. Au lieu d'expliquer comment un algorithme fonctionne, faites d'abord construire aux participants un système de tri simple avec des objets physiques. Quand ils manipulent et créent, les concepts abstraits deviennent tangibles. Par exemple, enseignez l'apprentissage automatique en les faisant s'entraîner mutuellement à reconnaître des motifs dans des dessins avant d'introduire la terminologie technique.
 
-### Rendre l'apprentissage actif et engageant
+Posez des questions au lieu de donner des réponses. Quand un participant demande "Comment l'IA reconnaît-elle les visages ?", répondez avec "Qu'est-ce que tu penses que l'ordinateur doit chercher ?" Construisez sur leurs réponses avec des questions de suivi qui les guident vers la découverte. Cette technique transforme les auditeurs passifs en penseurs actifs.
 
-**Commencez immédiatement par des activités pratiques.** Au lieu d'expliquer comment un algorithme fonctionne, faites d'abord construire aux participants un système de tri simple avec des objets physiques. Quand ils manipulent et créent, les concepts abstraits deviennent tangibles. Par exemple, enseignez l'apprentissage automatique en les faisant s'entraîner mutuellement à reconnaître des motifs dans des dessins avant d'introduire la terminologie technique.
+Transformez les difficultés individuelles en opportunités d'apprentissage de groupe. Quand un participant rencontre un défi, invitez les autres à aider à le résoudre ensemble. Créez des systèmes de binômes où les participants plus forts soutiennent ceux qui ont besoin d'aide, mais faites tourner ces paires pour que chacun puisse être à la fois enseignant et apprenant.
 
-**Posez des questions au lieu de donner des réponses.** Quand un participant demande "Comment l'IA reconnaît-elle les visages ?", répondez avec "Qu'est-ce que tu penses que l'ordinateur doit chercher ?" Construisez sur leurs réponses avec des questions de suivi qui les guident vers la découverte. Cette technique transforme les auditeurs passifs en penseurs actifs.
-
-**Transformez les difficultés individuelles en opportunités d'apprentissage de groupe.** Quand un participant rencontre un défi, invitez les autres à aider à le résoudre ensemble. Créez des systèmes de binômes où les participants plus forts soutiennent ceux qui ont besoin d'aide, mais faites tourner ces paires pour que chacun puisse être à la fois enseignant et apprenant.
-
-**Reconnaissez que certains participants ont besoin de bouger en réfléchissant.** Permettez-leur de se tenir debout, d'utiliser des objets anti-stress ou de faire de courtes promenades pendant le temps de réflexion. D'autres pourraient avoir besoin de dessiner des concepts plutôt que de les écrire. Offrez plusieurs façons de démontrer la compréhension - par la parole, la construction, le dessin ou le codage.
+Reconnaissez que certains participants ont besoin de bouger en réfléchissant. Permettez-leur de se tenir debout, d'utiliser des objets anti-stress ou de faire de courtes promenades pendant le temps de réflexion. D'autres pourraient avoir besoin de dessiner des concepts plutôt que de les écrire. Offrez plusieurs façons de démontrer la compréhension - par la parole, la construction, le dessin ou le codage.
 </details>
 
 <details>
 <summary>Créer le bon environnement</summary>
+Commencez chaque session avec un rituel simple qui signale le respect et l'ouverture. Cela pourrait être un tour de table rapide où chacun partage une chose qui l'intrigue, ou un rappel que "chaque question aide tout le monde à apprendre". Rendez clair dès le premier jour que les erreurs sont des données, pas des échecs.
 
-### Créer le bon environnement
+Surveillez les participants silencieux et créez des moments spécifiques pour leur participation. Au lieu de demander "Est-ce que quelqu'un a des questions ?", essayez "Écrivez une chose sur laquelle vous vous interrogez, puis nous partagerons." Donnez du temps de réflexion avant de demander des réponses. Parfois les observations les plus perspicaces viennent de ceux qui parlent le moins.
 
-**Commencez chaque session avec un rituel simple qui signale le respect et l'ouverture.** Cela pourrait être un tour de table rapide où chacun partage une chose qui l'intrigue, ou un rappel que "chaque question aide tout le monde à apprendre". Rendez clair dès le premier jour que les erreurs sont des données, pas des échecs.
+Quand l'énergie baisse, changez l'espace physique ou le format. Passez de assis à debout, passez du travail individuel au travail de groupe, ou prenez simplement une pause étirement de deux minutes. Si vous sentez la frustration monter, reconnaissez-le : "C'est difficile, et c'est exactement là que l'apprentissage se produit."
 
-**Surveillez les participants silencieux et créez des moments spécifiques pour leur participation.** Au lieu de demander "Est-ce que quelqu'un a des questions ?", essayez "Écrivez une chose sur laquelle vous vous interrogez, puis nous partagerons." Donnez du temps de réflexion avant de demander des réponses. Parfois les observations les plus perspicaces viennent de ceux qui parlent le moins.
-
-**Quand l'énergie baisse, changez l'espace physique ou le format.** Passez de assis à debout, passez du travail individuel au travail de groupe, ou prenez simplement une pause étirement de deux minutes. Si vous sentez la frustration monter, reconnaissez-le : "C'est difficile, et c'est exactement là que l'apprentissage se produit."
-
-**Rendez les concepts abstraits d'IA pertinents pour leur monde.** Connectez les algorithmes de recommandation à leurs flux YouTube, discutez des filtres faciaux en expliquant la vision par ordinateur, ou utilisez des exemples de jeux pour l'apprentissage par renforcement. Plus la connexion est proche de leur expérience quotidienne, plus la compréhension est profonde.
+Rendez les concepts abstraits d'IA pertinents pour leur monde. Connectez les algorithmes de recommandation à leurs flux YouTube, discutez des filtres faciaux en expliquant la vision par ordinateur, ou utilisez des exemples de jeux pour l'apprentissage par renforcement. Plus la connexion est proche de leur expérience quotidienne, plus la compréhension est profonde.
 </details>
 
 <details>
 <summary>Trouver des solutions aux défis rencontrés</summary>
+Quand quelqu'un a des difficultés, soyez curieux de la barrière spécifique. Est-ce le vocabulaire ? Des connaissances prérequises ? La confiance ? La peur de se tromper ? Une fois que vous identifiez le vrai blocage, vous pouvez l'adresser directement plutôt que de répéter la même explication plus fort.
 
-### Trouver des solutions aux défis rencontrés
+Pour les groupes non motivés, devenez détective.Quelle heure est-il ? Ont-ils faim ? Le contenu est-il trop facile ou trop difficile ? Parfois la solution est aussi simple qu'un jeu énergisant de cinq minutes ou reconnaître que tout le monde se sent fatigué le vendredi après-midi.
 
-  **Quand quelqu'un a des difficultés, soyez curieux de la barrière spécifique.** Est-ce le vocabulaire ? Des connaissances prérequises ? La confiance ? La peur de se tromper ? Une fois que vous identifiez le vrai blocage, vous pouvez l'adresser directement plutôt que de répéter la même explication plus fort.
+Quand des questions éthiques surgissent, résistez à l'envie de fournir des réponses définitives. Dites plutôt "C'est exactement le genre de question avec laquelle les développeurs d'IA se débattent." Créez de l'espace pour différents points de vue, partagez des exemples réels de ces dilemmes et aidez les participants à développer leur propre cadre éthique.
 
-**Pour les groupes non motivés, devenez détective.** Quelle heure est-il ? Ont-ils faim ? Le contenu est-il trop facile ou trop difficile ? Parfois la solution est aussi simple qu'un jeu énergisant de cinq minutes ou reconnaître que tout le monde se sent fatigué le vendredi après-midi.
-
-**Quand des questions éthiques surgissent, résistez à l'envie de fournir des réponses définitives.** Dites plutôt "C'est exactement le genre de question avec laquelle les développeurs d'IA se débattent." Créez de l'espace pour différents points de vue, partagez des exemples réels de ces dilemmes et aidez les participants à développer leur propre cadre éthique.
-
-**Si les dynamiques de groupe deviennent difficiles, adressez-les directement mais diplomatiquement.** "Je remarque que nous avons différents niveaux d'énergie aujourd'hui. Comment pouvons-nous nous assurer que chacun obtient ce dont il a besoin de cette session ?" Parfois reconnaître la tension la dissipe.
+Si les dynamiques de groupe deviennent difficiles, adressez-les directement mais diplomatiquement. "Je remarque que nous avons différents niveaux d'énergie aujourd'hui. Comment pouvons-nous nous assurer que chacun obtient ce dont il a besoin de cette session ?" Parfois reconnaître la tension la dissipe.
 </details>
 
 ## Nous faire parvenir votre lettre d'engagement 
