@@ -3,7 +3,7 @@ layout: single
 permalink: /
 title: Guide du tuteur - Projet Youth AI LAB
 ---
-| ![Template Page 1](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLabtutoring.png) |
+![Template Page 1](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLabtutoring.png)
 
 **Vous avez accepté ou envisagez de rejoindre le projet Youth AI Lab comme tuteur... Merci de votre implication ! Voici les informations pratiques sur votre engagement et votre rôle.**
 
@@ -130,10 +130,9 @@ Documentez le parcours thématique de la session en identifiant les thèmes de t
 
 Votre évaluation doit capturer l'énergie et l'engagement du groupe. Les participants étaient-ils très engagés, posant des questions et participant activement ? Ou avez-vous observé un engagement plus faible qui pourrait signaler un besoin d'approches différentes ? Évaluez honnêtement si la session a dépassé vos attentes, les a satisfaites de manière adéquate, ou est restée en deçà des objectifs prévus. Partagez au moins trois observations spécifiques - célébrez ce qui a brillamment fonctionné, notez ce qui a suscité un intérêt particulier et identifiez les domaines qui ont besoin d'amélioration. Enfin, esquissez la voie à suivre : quelles tâches restent incomplètes, quelles améliorations enrichiraient la prochaine session et quelles préparations serviraient mieux les participants.
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <img src="https://github.com/Youth-AI-Lab/tutorat/blob/main/assets/images/YouthAiLab_Template_Tutorat.png" alt="Template de rapport - Page 1" style="width: 40%;">
-  <img src="https://github.com/Youth-AI-Lab/tutorat/blob/main/assets/images/YouthAiLab_Template_Tutorat_p2.png" alt="Template de rapport - Page 2" style="width: 40%;">
-</div>
+| Template de rapport - Page 1 | Template de rapport - Page 2 |
+|:----------------------------:|:----------------------------:|
+| ![Template Page 1](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLab_Template_Tutorat.png) | ![Template Page 2](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLab_Template_Tutorat_p2.png) |
 
 </details>
 
