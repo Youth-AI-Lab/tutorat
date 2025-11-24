@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Template Science Citoyenne
-email: contact@jedi-track.org
+title: Guide du tuteur - Youth AI Lab
+email: contact@labaixbidouille.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Documentez et partagez vos actions de science citoyenne pour protéger l'environnement local.
-  Suivez nos campagnes de relevés, découvrez notre impact et rejoignez notre communauté engagée.
-twitter_username: jedi-track
-github_username: jedi-track
+  Vous avez accepté ou envisagez de rejoindre le projet Youth AI Lab comme tuteur... Merci de votre implication ! Voici les informations pratiques sur votre engagement et votre rôle..
+twitter_username: tuteur-youth-ai-lab
+github_username: tuteur-youth-ai-lab
 minimal_mistakes_skin: default
 search: true
 
@@ -57,37 +56,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Groupe jedi-track"
+  name   : "Tutorat Youth AI Lab"
   avatar : "/assets/images/logo.png"
-  bio    : "Équipe de citoyens engagés dans la surveillance environnementale de notre quartier."
+  bio    : "Accompagnement de jeunes dans cette exploration scientifique et créative de l'intelligence artificielle."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@jedi-track.org"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jedi-track"
+      url: "mailto:contact@labaixbidouille.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jedi-track"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/jedi-track"
+      url: "https://github.com/Youth-AI-Lab"
+    - label: "Project Information"
+      icon: "fas fa-fw fa-rocket"
+      url: "https://erasmus-plus.ec.europa.eu/projects/search/details/2025-1-FR02-KA220-YOU-000357192"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@jedi-track.org"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jedi-track"
+      url: "mailto:contact@labaixbidouille.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jedi-track"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/jedi-track"
+      url: "https://github.com/Youth-AI-Lab/"
+    - label: "Project Information"
+      icon: "fas fa-fw fa-rocket"
+      url: "https://erasmus-plus.ec.europa.eu/projects/search/details/2025-1-FR02-KA220-YOU-000357192"
 
 defaults:
   # _posts
