@@ -17,8 +17,7 @@ title: Guide du tuteur - Youth AI Lab
 email: contact@labaixbidouille.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vous avez accepté ou envisagez de rejoindre le projet Youth AI Lab comme tuteur... Merci de votre implication ! Voici les informations pratiques sur votre engagement et votre rôle..
-twitter_username: tuteur-youth-ai-lab
-github_username: tuteur-youth-ai-lab
+github_username: Youth-AI-Lab
 minimal_mistakes_skin: default
 search: true
 
@@ -57,8 +56,8 @@ plugins:
 
 author:
   name   : "Tutorat Youth AI Lab"
-  avatar : "/assets/images/logo.png"
-  bio    : "Accompagnement de jeunes dans cette exploration scientifique et créative de l'intelligence artificielle."
+  avatar : "/assets/images/Rounded version.png"
+  bio    : "Accompagnement de jeunes dans l'exploration scientifique et créative des outils d'intelligence artificielle générative."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
