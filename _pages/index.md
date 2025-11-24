@@ -129,11 +129,6 @@ Après chaque session de tuteurat, vous devez remplir un rapport sur papier en F
 Documentez le parcours thématique de la session en identifiant les thèmes de tuteurat explorés ensemble. Articulez les objectifs poursuivis - qu'espériez-vous que les participants comprennent, expérimentent ou accomplissent à la fin de la session ? Puis racontez la progression de la session à travers chaque activité, en fournissant à la fois le titre et une description significative de ce qui s'est passé. Ce récit devient précieux pour comprendre non seulement ce qui était prévu, mais ce qui s'est réellement déroulé dans l'environnement dynamique de l'éducation des jeunes.
 
 Votre évaluation doit capturer l'énergie et l'engagement du groupe. Les participants étaient-ils très engagés, posant des questions et participant activement ? Ou avez-vous observé un engagement plus faible qui pourrait signaler un besoin d'approches différentes ? Évaluez honnêtement si la session a dépassé vos attentes, les a satisfaites de manière adéquate, ou est restée en deçà des objectifs prévus. Partagez au moins trois observations spécifiques - célébrez ce qui a brillamment fonctionné, notez ce qui a suscité un intérêt particulier et identifiez les domaines qui ont besoin d'amélioration. Enfin, esquissez la voie à suivre : quelles tâches restent incomplètes, quelles améliorations enrichiraient la prochaine session et quelles préparations serviraient mieux les participants.
-
-| Template de rapport - Page 1 | Template de rapport - Page 2 |
-|:----------------------------:|:----------------------------:|
-| ![Template Page 1](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLab_Template_Tutorat.png) | ![Template Page 2](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLab_Template_Tutorat_p2.png) |
-
 </details>
 
 <details>
@@ -155,6 +150,10 @@ Pour garantir la qualité du programme et son amélioration continue, nous pourr
 
 Toute collecte de données suit des directives éthiques strictes et les réglementations de protection des données. Les informations personnelles sont anonymisées pour l'analyse, et les matériaux sont utilisés uniquement pour l'amélioration du programme, les objectifs de recherche et le partage de bonnes pratiques au sein du consortium. Vous serez informé de toute activité spécifique de collecte de données avant chaque session et pourrez faire part de vos préoccupations à l'équipe de coordination.
 </details>
+
+| Template de rapport - Page 1 | Template de rapport - Page 2 |
+|:----------------------------:|:----------------------------:|
+| ![Template Page 1](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLab_Template_Tutorat.png) | ![Template Page 2](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLab_Template_Tutorat_p2.png) |
 
 ## Aller plus loin - Savoir-être avec les jeunes
 
