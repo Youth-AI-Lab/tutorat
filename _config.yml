@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Tutorat Youth AI Lab"
   avatar : "/assets/images/Rounded version.png"
-  bio    : "Accompagnement de jeunes dans cette exploration scientifique et créative de l'intelligence artificielle."
+  bio    : "Accompagnement de jeunes dans l'exploration scientifique et créative des outils d'intelligence artificielle générative."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
