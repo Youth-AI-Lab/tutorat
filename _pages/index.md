@@ -3,8 +3,7 @@ layout: single
 permalink: /
 title: Guide du tuteur - Projet Youth AI LAB
 ---
-
-<img src="https://github.com/Youth-AI-Lab/tutorat/blob/main/assets/images/YouthAiLabtutoring.png" style="width: 20%;">
+| ![Template Page 1](https://raw.githubusercontent.com/Youth-AI-Lab/tutorat/main/assets/images/YouthAiLabtutoring.png) |
 
 **Vous avez accepté ou envisagez de rejoindre le projet Youth AI Lab comme tuteur... Merci de votre implication ! Voici les informations pratiques sur votre engagement et votre rôle.**
 
